@@ -1,4 +1,4 @@
-from models.linear_regression import LinearRegressionModel
+from Regression.models.Regression import LinearRegressionModel
 from utils.data_preprocessing import load_and_preprocess_data
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt

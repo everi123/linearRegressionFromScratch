@@ -1,5 +1,5 @@
 import unittest
-from models.linear_regression import LinearRegressionModel
+from Regression.models.Regression import LinearRegressionModel
 import numpy as np
 
 class TestLinearRegression(unittest.TestCase):
