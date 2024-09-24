@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+
 
 class LinearRegressor:
     def __init__(self,n_iteration=1000,learning_rate=0.01) -> None:
